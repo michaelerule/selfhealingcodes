@@ -1,4 +1,4 @@
-# Self-healing codes: How stable neural populations can track continually reconfiguring neural representations
+# Self-healing codes: *How stable neural populations can track continually reconfiguring neural representations*
 
 Rule, M. E., & O’Leary, T. (2022). Self-healing codes: How stable neural populations can track continually reconfiguring neural representations. Proceedings of the National Academy of Sciences, 119(7), e2106692119. [doi: https://doi.org/10.1073/pnas.210669211.](https://doi.org/10.1073/pnas.210669211) 
 
